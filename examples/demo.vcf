@@ -1,0 +1,6 @@
+##fileformat=VCFv4.2
+##source=BioVaultDemo
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	S1	S2
+1	100	.	A	T	50	PASS	.	GT	0/1	1/1
+1	200	.	G	C	60	PASS	.	GT	0/0	0/1
+2	350	.	T	G	40	PASS	.	GT	0/1	0/0

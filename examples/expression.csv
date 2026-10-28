@@ -1,0 +1,6 @@
+sample_id,gene,expression,condition
+S1,BRCA1,12.4,control
+S2,BRCA1,15.1,treated
+S3,TP53,8.9,control
+S4,TP53,,treated
+S5,EGFR,22.0,treated
